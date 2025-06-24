@@ -1,0 +1,1 @@
+const Cart = () => <div className="p-4">Cart Page</div>; export default Cart;
