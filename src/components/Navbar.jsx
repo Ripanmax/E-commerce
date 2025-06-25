@@ -26,9 +26,7 @@ const Navbar = () => {
         {/* Menu items */}
         <div className={`flex-col md:flex md:flex-row md:items-center gap-6 ${menuOpen ? 'flex' : 'hidden'} md:flex`}>
           <Link to="/" className="text-black">Home</Link>
-          <Link to="#" className="text-black">Services</Link>
-          <Link to="/hostel-items" className="block px-4 py-2 hover:bg-gray-100">Hostel Items</Link>
-<Link to="/books" className="block px-4 py-2 hover:bg-gray-100">Books</Link>
+          
 <Link to="/room-decor" className="block px-4 py-2 hover:bg-gray-100">Room Decor</Link>
 <Link to="/kitchen" className="block px-4 py-2 hover:bg-gray-100">Kitchen Essentials</Link>
 <Link to="/electronics" className="block px-4 py-2 hover:bg-gray-100">Electronics</Link>
@@ -50,5 +48,7 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
 
 

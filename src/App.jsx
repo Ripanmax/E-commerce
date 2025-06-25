@@ -21,8 +21,9 @@ function App() {
           <Route path="/cart" element={<Cart />} />
             <Route path="/login" element={<Login />} />       {/* ✅ Route config */}
             <Route path="/register" element={<Register />} /> 
-            
-            <Route path="/decor/:id" element={<RoomDecor />} />
+          <Route path="/room-decor" element={<RoomDecor />} />
+
+
             <Route path="/kitchen" element={<Kitchen />} />
 <Route path="/electronics" element={<Electronics />} />
 

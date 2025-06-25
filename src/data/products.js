@@ -4,23 +4,23 @@ export const products = [
     name: "Elegant Sofa Set",
     description: "Luxurious 3-seater sofa with premium fabric and cushions.",
     price: 29999,
-    image: "https://images.unsplash.com/photo-1616627456639-1d6d85e2fc09"
+    image: "https://www.nilkamalfurniture.com/cdn/shop/files/Rippon3STRLS2_756a75cd-c346-4aab-b307-5389b62093e5.jpg?v=1724991082&width=720"
   },
   {
     id: 2,
     name: "Modern Coffee Table",
     description: "Stylish wooden coffee table with metal legs.",
     price: 8999,
-    image: "https://images.unsplash.com/photo-1616627463167-37638f497ab7"
-  },
-  {
+    image: "https://housely.com/wp-content/uploads/2017/04/GM-OTTO-01-2-large.jpg"
+  
+  },{
     id: 3,
     name: "Minimalist Bed Frame",
     description: "Queen size bed frame with natural wood finish.",
     price: 15999,
-    image: "https://images.unsplash.com/photo-1585559601864-07e645d4a1f3"
+    image: "https://tse2.mm.bing.net/th?id=OIP.E8kJ3U6irs1MqiERjKUWVAHaHa&pid=Api&P=0&h=180",
   },
-  {
+  {                  
     id: 4,
     name: "Dining Set",
     description: "4-seater dining table with comfortable chairs.",

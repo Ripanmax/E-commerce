@@ -9,29 +9,30 @@ export const kitchenProducts = [
     name: 'Electric Kettle',
     price: 799,
     description: '1.5L electric kettle perfect for quick tea, noodles, or boiling water. Auto cut-off and fast heating.',
-    image: require('../assets/kettle.jpeg'),
+    image: kettle,
   },
   {
     id: 2,
     name: 'Tiffin Box',
     price: 299,
     description: 'Leak-proof, stainless steel tiffin box with 3 compartments and microwave-safe lid.',
-    image: require('../assets/tiffin.jpeg'),
+    image: tiffin,
   },
   {
     id: 3,
     name: 'Induction Cooker',
     price: 1499,
     description: 'Portable induction cooker with multiple modes, great for hostel meals like Maggi, omelettes, and more.',
-    image: require('../assets/cooker.jpeg'),
+    image: cooker,
   },
   {
     id: 4,
     name: 'Knife Set',
     price: 499,
     description: 'Complete kitchen knife set with peeler, perfect for hostel-level cooking and cutting needs.',
-    image: require('../assets/knife.jpeg'),
+    image: knife,
   },
 ];
+
 
 
